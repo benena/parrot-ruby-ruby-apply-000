@@ -7,3 +7,4 @@ end
 
 
 # different return values of output vs. return (puts = nil vs. return = argument without puts or return)
+# calling argument without return or puts = return = true. puts = false, nil.
